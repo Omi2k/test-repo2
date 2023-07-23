@@ -1,0 +1,418 @@
+[{
+  "_id": {
+    "$oid": "6490a9d4ea0e7f4c57482281"
+  },
+  "title": "The way of the Kings",
+  "author": "Brandon Sanderson",
+  "pages": 300,
+  "genres": [
+    "fantasy"
+  ],
+  "reviews": [
+    {
+      "name": "Yoshi",
+      "review": "great book"
+    },
+    {
+      "name": "heio",
+      "review": "httta do ese"
+    }
+  ],
+  "rating": 9
+},
+{
+  "_id": {
+    "$oid": "6490aa871a3a5c9652614384"
+  },
+  "title": "The Color of Magic",
+  "author": "Om Nigam",
+  "pages": 300,
+  "rating": 9,
+  "genres": [
+    "fantasy",
+    "magic"
+  ],
+  "reviews": [
+    {
+      "name": "John",
+      "review": "A captivating fantasy novel with a unique blend of humor and adventure."
+    },
+    {
+      "name": "Emily",
+      "review": "I couldn't put this book down! The magical world created by the author is truly enchanting."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6490aa871a3a5c9652614385"
+  },
+  "title": "The Lord of the Rings",
+  "author": "J.R.R. Tolkien",
+  "pages": 1178,
+  "rating": 10,
+  "genres": [
+    "fantasy",
+    "adventure"
+  ],
+  "reviews": [
+    {
+      "name": "David",
+      "review": "An epic masterpiece that transports you to a world full of wonders and heroism."
+    },
+    {
+      "name": "Sarah",
+      "review": "Tolkien's storytelling is unparalleled. This is a must-read for any fantasy lover."
+    },
+    {
+      "name": "Michael",
+      "review": "I was completely immersed in Middle-earth. The characters and their journey are unforgettable."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6490aa871a3a5c9652614386"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "pages": 328,
+  "rating": 8,
+  "genres": [
+    "dystopian",
+    "science fiction"
+  ],
+  "reviews": [
+    {
+      "name": "Jennifer",
+      "review": "Orwell's dystopian vision is chillingly realistic. A thought-provoking and unsettling read."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6490aa871a3a5c9652614387"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "pages": 336,
+  "rating": 9,
+  "genres": [
+    "fiction",
+    "classics"
+  ],
+  "reviews": [
+    {
+      "name": "Robert",
+      "review": "A powerful and heartwrenching story that explores important themes of justice and prejudice."
+    },
+    {
+      "name": "Michelle",
+      "review": "Harper Lee's writing is simply exquisite. This book touched my soul."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6490aa871a3a5c9652614388"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "pages": 432,
+  "rating": 9,
+  "genres": [
+    "romance",
+    "classics"
+  ],
+  "reviews": [
+    {
+      "name": "Elizabeth",
+      "review": "A delightful and timeless romance. Austen's wit and character development are unparalleled."
+    },
+    {
+      "name": "William",
+      "review": "I fell in love with the charming characters and the beautiful depiction of societal norms."
+    },
+    {
+      "name": "Sophia",
+      "review": "Austen's observations on human nature and love are still relevant today."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6490aa871a3a5c9652614389"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "pages": 180,
+  "rating": 8,
+  "genres": [
+    "fiction",
+    "classics"
+  ],
+  "reviews": [
+    {
+      "name": "Andrew",
+      "review": "Fitzgerald's prose is mesmerizing. A tragic and glittering portrait of the Jazz Age."
+    },
+    {
+      "name": "Emma",
+      "review": "I was captivated by the decadence and obsession portrayed in this timeless classic."
+    },
+    {
+      "name": "Daniel",
+      "review": "The symbolism and themes in this book left a lasting impression on me."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6490aa871a3a5c965261438a"
+  },
+  "title": "Harry Potter and the Sorcerer's Stone",
+  "author": "J.K. Rowling",
+  "pages": 320,
+  "rating": 9,
+  "genres": [
+    "fantasy",
+    "adventure"
+  ],
+  "reviews": [
+    {
+      "name": "Jessica",
+      "review": "A magical start to an incredible series. Rowling's imagination is awe-inspiring."
+    },
+    {
+      "name": "Ryan",
+      "review": "I grew up with Harry Potter, and these books will forever hold a special place in my heart."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6490aa871a3a5c965261438b"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "pages": 336,
+  "rating": 9,
+  "genres": [
+    "fiction",
+    "classics"
+  ],
+  "reviews": [
+    {
+      "name": "Sophie",
+      "review": "A timeless classic that explores important themes of racial injustice and morality."
+    },
+    {
+      "name": "Jacob",
+      "review": "Harper Lee's storytelling is masterful. This book made me reflect on the power of empathy."
+    },
+    {
+      "name": "Olivia",
+      "review": "One of the most powerful books I've ever read. It left me in tears and changed my perspective."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6490aa871a3a5c965261438c"
+  },
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "pages": 224,
+  "rating": 8,
+  "genres": [
+    "fiction",
+    "coming-of-age"
+  ],
+  "reviews": [
+    {
+      "name": "Andrew",
+      "review": "Holden Caulfield's voice is unique and unforgettable. This book captured the angst of adolescence."
+    },
+    {
+      "name": "Emily",
+      "review": "Salinger's portrayal of teenage rebellion resonated with me. A classic coming-of-age story."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6490aa871a3a5c965261438d"
+  },
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "pages": 310,
+  "rating": 9,
+  "genres": [
+    "fantasy",
+    "adventure"
+  ],
+  "reviews": [
+    {
+      "name": "Lucas",
+      "review": "A delightful adventure that sets the stage for the epic tale of The Lord of the Rings."
+    },
+    {
+      "name": "Isabella",
+      "review": "Tolkien's world-building is enchanting. This book sparked my love for fantasy."
+    },
+    {
+      "name": "Daniel",
+      "review": "Bilbo's journey is a classic hero's quest. Tolkien's storytelling is pure magic."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6490aa871a3a5c965261438e"
+  },
+  "title": "Brave New World",
+  "author": "Aldous Huxley",
+  "pages": 288,
+  "rating": 8,
+  "genres": [
+    "dystopian",
+    "science fiction"
+  ],
+  "reviews": [
+    {
+      "name": "Oliver",
+      "review": "Huxley's vision of a controlled society is both fascinating and unsettling."
+    },
+    {
+      "name": "Sophia",
+      "review": "A thought-provoking exploration of the dangers of scientific advancement and social conditioning."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6490aa871a3a5c965261438f"
+  },
+  "title": "Moby-Dick",
+  "author": "Herman Melville",
+  "pages": 720,
+  "rating": 9,
+  "genres": [
+    "fiction",
+    "adventure"
+  ],
+  "reviews": [
+    {
+      "name": "Nathan",
+      "review": "Melville's masterpiece is a deep dive into the human psyche. The symbolism is awe-inspiring."
+    },
+    {
+      "name": "Sophie",
+      "review": "A thrilling and epic tale of obsession and revenge on the high seas."
+    },
+    {
+      "name": "Daniel",
+      "review": "Moby-Dick is a literary behemoth that explores the nature of man and the power of nature."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6490aa871a3a5c9652614390"
+  },
+  "title": "The Chronicles of Narnia",
+  "author": "C.S. Lewis",
+  "pages": 767,
+  "rating": 9,
+  "genres": [
+    "fantasy",
+    "adventure"
+  ],
+  "reviews": [
+    {
+      "name": "Emily",
+      "review": "Lewis created a magical and captivating world that ignited my imagination."
+    },
+    {
+      "name": "Jacob",
+      "review": "The Chronicles of Narnia is a timeless series that teaches valuable lessons about courage and faith."
+    },
+    {
+      "name": "Sarah",
+      "review": "I was enchanted by the talking animals and the epic battles between good and evil."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6490aa871a3a5c9652614391"
+  },
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "pages": 197,
+  "rating": 9,
+  "genres": [
+    "fiction",
+    "adventure"
+  ],
+  "reviews": [
+    {
+      "name": "Lucas",
+      "review": "Coelho's allegorical tale is a beautiful reminder to follow our dreams and listen to our hearts."
+    },
+    {
+      "name": "Emma",
+      "review": "The Alchemist is a profound and inspiring book that left me contemplating the meaning of life."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6490aa871a3a5c9652614392"
+  },
+  "title": "Animal Farm",
+  "author": "George Orwell",
+  "pages": 112,
+  "rating": 9,
+  "genres": [
+    "dystopian",
+    "satire"
+  ],
+  "reviews": [
+    {
+      "name": "Sophia",
+      "review": "Orwell's political allegory is a brilliant critique of totalitarian regimes. A must-read."
+    },
+    {
+      "name": "David",
+      "review": "Animal Farm is a powerful and eye-opening book that highlights the corruption of power."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6490aa871a3a5c9652614393"
+  },
+  "title": "The Odyssey",
+  "author": "Homer",
+  "pages": 416,
+  "rating": 9,
+  "genres": [
+    "epic",
+    "adventure"
+  ],
+  "reviews": [
+    {
+      "name": "Elizabeth",
+      "review": "A timeless epic that takes you on an unforgettable journey filled with myth and heroism."
+    },
+    {
+      "name": "Nathan",
+      "review": "Homer's storytelling is legendary. The Odyssey is a classic for a reason."
+    },
+    {
+      "name": "Emily",
+      "review": "I was swept away by the adventures of Odysseus. A true masterpiece."
+    }
+  ]
+}]
